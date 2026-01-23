@@ -6,3 +6,5 @@ Please add your details below to register for the event.
 |------|-------------|
 | Example Student | 123456 |
 |git   |SPOC         |
+|srija||spoc|
+|rithu||spoc|
