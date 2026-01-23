@@ -8,3 +8,4 @@ Please add your details below to register for the event.
 |git   |SPOC         |
 |srija||spoc|
 |rithu||spoc|
+|priya|executive|
